@@ -1,2 +1,2 @@
 # flutuar
-Trilha Explorer Stage 2 - Projeto 02 | RocketSeat
+Trilha Explorer Stage 2 - Projeto Extra 01 | RocketSeat
